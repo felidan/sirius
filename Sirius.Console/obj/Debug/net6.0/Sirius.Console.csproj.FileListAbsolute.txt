@@ -1,0 +1,15 @@
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.AssemblyInfo.cs
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Sirius\Sirius.Console\bin\Debug\net6.0\Sirius.Console.exe
+C:\Users\felip\Desktop\Sirius\Sirius.Console\bin\Debug\net6.0\Sirius.Console.deps.json
+C:\Users\felip\Desktop\Sirius\Sirius.Console\bin\Debug\net6.0\Sirius.Console.runtimeconfig.json
+C:\Users\felip\Desktop\Sirius\Sirius.Console\bin\Debug\net6.0\Sirius.Console.dll
+C:\Users\felip\Desktop\Sirius\Sirius.Console\bin\Debug\net6.0\Sirius.Console.pdb
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.dll
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\refint\Sirius.Console.dll
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.pdb
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\Sirius.Console.genruntimeconfig.cache
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\net6.0\ref\Sirius.Console.dll

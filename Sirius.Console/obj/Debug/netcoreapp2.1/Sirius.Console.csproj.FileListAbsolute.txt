@@ -1,0 +1,4 @@
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\netcoreapp2.1\Sirius.Console.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\netcoreapp2.1\Sirius.Console.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\netcoreapp2.1\Sirius.Console.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Sirius\Sirius.Console\obj\Debug\netcoreapp2.1\Sirius.Console.AssemblyInfo.cs
